@@ -68,4 +68,4 @@ Name: Sagar Chhanwal
 College: Maharashtra Institute of Technology, Chhatrapati Sambhajinagar
 Course: B.Tech in Electrical Engineering
 Project: AI Study Assistant Agent 
-Project Type: Student Mini-Project
+Project Type:Mini-Project
